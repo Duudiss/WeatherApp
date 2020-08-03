@@ -2,7 +2,7 @@
 
 Aplicativo Flutter para recuperar informção metereológica da região.
 ## Requisitos
- 
+ - Dart
  - Possuir Flutter instalado
  - Vesão mínima do sdk 28 
  - Permitir acesso a localização do celular o tempo inteiro

@@ -1,16 +1,14 @@
-# weather
+# Weather App
 
-A new Flutter project.
+Aplicativo Flutter para recuperar informção metereologica da região
+## Requisitos
+ 
+ - Possuir Flutter instalado
+ - Vesão mínima do sdk 28 
+ - Permitir acesso a localização do celular o tempo inteiro
 
-## Getting Started
+## Instalando
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Abrir o projeto com Visual Studio (recomendado)
+Rodar o flutter pub get (Baixar todos os packages que serão utilizados)
+E compilar (F5 no Visual studio, ou usar a linha comando flutter run)   

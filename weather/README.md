@@ -1,6 +1,6 @@
 # Weather App
 
-Aplicativo Flutter para recuperar informção metereologica da região
+Aplicativo Flutter para recuperar informção metereológica da região.
 ## Requisitos
  
  - Possuir Flutter instalado
@@ -9,6 +9,6 @@ Aplicativo Flutter para recuperar informção metereologica da região
 
 ## Instalando
 
-Abrir o projeto com Visual Studio (recomendado)
-Rodar o flutter pub get (Baixar todos os packages que serão utilizados)
-E compilar (F5 no Visual studio, ou usar a linha comando flutter run)   
+ - Abrir o projeto com Visual Studio (recomendado)
+ - Rodar o flutter pub get (Baixar todos os packages que serão utilizados)
+ - E compilar (F5 no Visual studio, ou usar a linha comando flutter run)   
